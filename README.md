@@ -10,7 +10,7 @@ A little less dependent on Big Tech with this open source Authenticator for Two-
 
 - Open source and independent of big tech companies.
 - Supports 2FA and MFA.
-- Data is securely stored in an encrypted file.
+- Data is securely stored in a local encrypted file.
 
 ### For Microsoft Windows recommended and fastes way to get nbtauth working
 
@@ -84,7 +84,7 @@ Een beetje minder afhankelijk van Big Tech met deze opensource Authenticator voo
 
 - Open source en onafhankelijk van grote technologiebedrijven.
 - Ondersteunt 2FA en MFA.
-- Gegevens worden veilig opgeslagen in een versleuteld bestand.
+- Gegevens worden veilig opgeslagen in een lokaal versleuteld bestand.
 
 ### Installatie-instructies
 
